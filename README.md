@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lips-cold-without-yours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Lips Cold Without Yours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lips-cold-without-yours/) |
+| **Get License** | [Music Rights & Licensing for Lips Cold Without Yours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lips-cold-without-yours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `832181eda8650ab36552fcc436af354aeabd27455f18e296766cf24a21604324` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

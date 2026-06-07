@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lips Cold Without Yours
+
+This log tracks the cryptographic history and versioning for the song **Lips Cold Without Yours** (lips-cold-without-yours).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:32:12.182345 | `v1` | `832181eda8650ab36552fcc436af354aeabd27455f18e296766cf24a21604324` | `91a0a8d4cfc05000c9ce83297a146935b803f0029c7e6d3dc08cee683d86021f` | `2026-06-07_lips-cold-without-yours-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
