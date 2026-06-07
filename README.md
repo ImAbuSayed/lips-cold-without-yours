@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lips-cold-without-yours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Lips Cold Without Yours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lips-cold-without-yours/) |
+| **Get License** | [Commercial Licensing for Lips Cold Without Yours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lips-cold-without-yours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight breeze is tracing down my skin
+> But it's your memory that pulls me in
+> A soft flame dances on the empty chair
+> And I can feel your body everywhere
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
